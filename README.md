@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim
 
-Eu sou uma pessoa desenvolvedora full-stack que adora aprender coisas novas e está sempre experimentando novas tecnologias.
+Eu sou uma pessoa desenvolvedora full-stack que adora aprender e está sempre experimentando novas tecnologias.
 O que eu acho incrível no mundo da tecnologia é como podemos contribuir para soluções em diversos projetos ao redor do mundo.
 
 ## 🔗 Links
