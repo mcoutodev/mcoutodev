@@ -5,7 +5,7 @@
 - 👩‍💻 Sou desenvolvedor web full-stack
 - 🧠 Estou aprendendo Typescript
 - 👯‍  Procuro colaborar em projetos open-source nas linguagens que domino
-- 📫 Entre em contato comigo através do email abaixo
+- 📫 Entre em contato comigo através por email: marloncouto199@gmail.com
 - 😄 Ele/Dele
 - ⚡️ Adoro conversar descontraidamente sobre filosofia e questões existenciais
 
