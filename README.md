@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=marloncoutodev&color=red)
+![](https://komarev.com/ghpvc/?username=marlon-couto&color=red)
 
 # Olá, eu sou o Marlon Couto! 👋
 
@@ -16,14 +16,14 @@ O que eu acho incrível no mundo da tecnologia é como podemos contribuir para s
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/marloncoutodev)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mcoutodev)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marloncouto199@gmail.com)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
 ## Estatísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marloncoutodev&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marloncoutodev&theme=react&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcoutodev&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcoutodev&theme=react&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Habilidades
 
