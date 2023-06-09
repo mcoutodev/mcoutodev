@@ -25,7 +25,7 @@ O que eu acho incrível no mundo da tecnologia é como podemos contribuir para s
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcoutodev&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcoutodev&theme=react&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mcoutodev)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mcoutodev&layout=compact&theme=react&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Habilidades
 
