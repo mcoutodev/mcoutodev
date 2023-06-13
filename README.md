@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Marlon Couto! 👋
 
-- 👩‍💻 Sou desenvolvedor web full-stack
+- 👩‍💻 Sou desenvolvedor web backend
 - 🧠 Estou aprendendo: Typescript e PHP
 - 👯‍  Procuro colaborar em projetos open-source nas linguagens que domino
 - 📫 Entre em contato comigo através por email: marloncouto199@gmail.com
