@@ -1,18 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=marlon-couto&color=red)
 
-# Olá, eu sou o Marlon Couto! 👋
+# Hi, I'm Marlon Couto! 👋
 
-- 👩‍💻 Sou desenvolvedor web backend
-- 🧠 Estou aprendendo: Typescript e PHP
-- 👯‍  Procuro colaborar em projetos open-source nas linguagens que domino
-- 📫 Entre em contato comigo através por email: marloncouto199@gmail.com
-- 😄 Ele/Dele
-- ⚡️ Adoro conversar descontraidamente sobre filosofia e questões existenciais
+- 👩‍💻 I'm a backend developer
+- 🧠 I'm currently learning PHP
+- 👯‍ I try to collaborate in open-source projects in the languages that I master
+- 📫 Contact me through: marloncouto199@gmail.com
+- 😄 He/Him
+- ⚡️ I enjoy casual conversations about philosophy and existential issues
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-Eu sou uma pessoa desenvolvedora full-stack que adora aprender e está sempre experimentando novas tecnologias.
-O que eu acho incrível no mundo da tecnologia é como podemos contribuir para soluções em diversos projetos ao redor do mundo.
+I'm a back-end developer person who loves to learn and is always experimenting with new technologies.
+What I find amazing in the world of technology is how we can contribute to solutions in different projects around the world.
 
 ## 🔗 Links
 
@@ -21,15 +21,15 @@ O que eu acho incrível no mundo da tecnologia é como podemos contribuir para s
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mcoutodev?hr_r=1)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mcoutodev)
 
-## Estatísticas
+## Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcoutodev&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcoutodev&theme=react&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mcoutodev&layout=compact&theme=react&bg_color=00000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🛠 Habilidades
+## 🛠 Skills
 
-### Linguagens
+### Languages
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +38,7 @@ O que eu acho incrível no mundo da tecnologia é como podemos contribuir para s
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Bibliotecas/frameworks
+### Libraries/frameworks
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -47,21 +47,21 @@ O que eu acho incrível no mundo da tecnologia é como podemos contribuir para s
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Banco de dados
+### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 
-### Testes
+### Tests
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
 
-### Qualidade de código
+### Code quality
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
@@ -69,7 +69,7 @@ O que eu acho incrível no mundo da tecnologia é como podemos contribuir para s
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Stylelint](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
 
-### Desenvolvimento e deploy
+### Development and deploy
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
@@ -81,7 +81,7 @@ O que eu acho incrível no mundo da tecnologia é como podemos contribuir para s
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Outros
+### Other
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
