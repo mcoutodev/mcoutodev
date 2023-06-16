@@ -3,7 +3,7 @@
 # Hi, I'm Marlon Couto! 👋
 
 - 👩‍💻 I'm a backend developer
-- 🧠 I'm currently learning PHP
+- 🧠 I'm currently learning Django
 - 👯‍ I try to collaborate in open-source projects in the languages that I master
 - 📫 Contact me through: marloncouto199@gmail.com
 - 😄 He/Him
