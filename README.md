@@ -2,7 +2,7 @@
 
 # Hi, I'm Marlon Couto! 👋
 
-- 👩‍💻 I'm a backend developer
+- 👩‍💻 I'm a web developer
 - 🧠 I'm currently learning Java
 - 👯‍ I try to collaborate in open-source projects in the languages that I master
 - 📫 Contact me through: marloncouto199@gmail.com
