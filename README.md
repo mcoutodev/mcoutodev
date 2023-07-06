@@ -21,7 +21,7 @@ What I find amazing in the world of technology is how we can contribute to solut
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mcoutodev?hr_r=1)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mcoutodev)
 
-## Stats
+## 📊 Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mcoutodev&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcoutodev&theme=react&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
