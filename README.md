@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=marlon-couto&color=red)
+![](https://komarev.com/ghpvc/?username=marlon-couto)
 
 # Hi, I'm Marlon Couto! 👋
 
